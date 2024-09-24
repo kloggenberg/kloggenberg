@@ -1,4 +1,4 @@
-# Hello, I'm Kyle 👋
+# Salutations, I'm Kyle 👋
 
 ### 👨‍💻 About Me
 I’m an aspiring Software Developer and Technical Mentor at WeThinkCode_. Passionate about building scalable applications and exploring the world of data science and analytics. Currently, I’m working on a Space Invader game and diving deep into Python for data analysis.
@@ -14,8 +14,8 @@ I’m an aspiring Software Developer and Technical Mentor at WeThinkCode_. Passi
 - **[Hangman](https://github.com/kloggenberg/Hangman)**: A fun implementation of the classic word-guessing game, where players try to guess a hidden word within a limited number of attempts.
 
 ### 📫 Contact Me
-- [Email](your-email@example.com)
-- [LinkedIn](your-linkedin-profile)
+- [Email](kyleloggenberg9@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/loggenberg/)
 
 ### 🌟 Fun Facts
 - I recently became a Technical Mentor, helping aspiring developers navigate their tech journeys.
