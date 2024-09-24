@@ -26,3 +26,5 @@ I’m an aspiring Software Developer and Technical Mentor at WeThinkCode_. Passi
 - I love working on data visualization projects to make complex data more accessible.
 
 Feel free to reach out if you're interested in collaboration or just want to chat about tech!
+
+![End Banner](anime_girl.gif)
