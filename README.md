@@ -1,6 +1,7 @@
 ![Profile Banner](banner_pic.png)
 
-# Salutations, I'm Kyle 👋
+# Salutations, I'm Kyle Loggenberg 
+##aka light👋
 
 ### 👨‍💻 About Me
 I’m an aspiring Software Developer and Technical Mentor at WeThinkCode_. Passionate about building scalable applications and exploring the world of data science and analytics. Currently, I’m working on a Space Invader game and diving deep into Python for data analysis.
