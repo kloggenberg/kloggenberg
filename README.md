@@ -24,6 +24,7 @@ I’m an aspiring Software Developer and Technical Mentor at WeThinkCode_. Passi
 - I recently became a Technical Mentor, helping aspiring developers navigate their tech journeys.
 - I was a bootcamp mentor, helping aspiring developers get started in their tech careers.
 - I love working on data visualization projects to make complex data more accessible.
+- I'm a mechanical keyboard enthusiast—nothing beats the sound of a good keystroke!
 
 Feel free to reach out if you're interested in collaboration or just want to chat about tech!
 
