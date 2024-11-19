@@ -12,8 +12,8 @@ I’m an aspiring Software Developer and Technical Mentor at WeThinkCode_. Passi
 - **Tools & Technologies:** Git, Docker, Selenium, JUnit, Pandas, Matplotlib
 
 ### 🔧 Projects
-- **[Space Invader Game](https://github.com/kloggenberg/space-invaders)**: A classic arcade game reimagined in Java, featuring engaging gameplay and fun graphics.
-- **[GUI Tic-Tac-Toe](https://github.com/kloggenberg/TikTacToe)**: A user-friendly graphical interface for the classic Tic-Tac-Toe game, implemented in Java.
+- **[Space Invader Game](https://github.com/kloggenberg/space-invaders)**: A classic arcade game reimagined in Python, featuring engaging gameplay and fun graphics.
+- **[GUI Tic-Tac-Toe](https://github.com/kloggenberg/TikTacToe)**: A user-friendly graphical interface for the classic Tic-Tac-Toe game, implemented in Python.
 - **[Hangman](https://github.com/kloggenberg/Hangman)**: A fun implementation of the classic word-guessing game, where players try to guess a hidden word within a limited number of attempts.
 
 ### 📫 Contact Me
