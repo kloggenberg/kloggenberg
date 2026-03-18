@@ -22,7 +22,7 @@ Software Engineer with production experience building and maintaining scalable R
 - [LinkedIn](https://www.linkedin.com/in/loggenberg/)
 
 ### 🌟 Fun Facts
-- Final reviewer with Merge right aat MTN Software Solutions
+- Final reviewer with Merge rights at MTN Software Solutions
 - I became a Technical Mentor, helping aspiring developers navigate their tech journeys.
 - I was a bootcamp mentor, helping aspiring developers get started in their tech careers.
 - Anime Nerd.
