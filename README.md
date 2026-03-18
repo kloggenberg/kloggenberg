@@ -12,7 +12,7 @@ Software Engineer with production experience building and maintaining scalable R
 - **Tools & Technologies:** Git, Docker, Selenium, JUnit, Pandas, Matplotlib, Jest
 
 ### 🔧 Projects
-- **[Enterprise .NET Microservice](https://github.com/your-repo-link)**: A containerized .NET application focused on architectural separation and scalability. 
+- **[Enterprise .NET Authetication Microservice]([https://github.com/your-repo-link](https://github.com/kloggenberg/auth-system))**: A containerized .NET application focused on architectural separation and scalability. 
     - **Key Feature:** Fully **Dockerized** workflow to ensure environment parity and seamless CI/CD integration.
     - **Tech Stack:** C#, .NET Core, Docker, RESTful API Design.
 - **[API Gateway Simulator](https://github.com/kloggenberg/api-gateway-sim)**: A high-performance Express/TypeScript gateway featuring a **Chaos Simulator**  middleware to test frontend resilience against real-world latency.
