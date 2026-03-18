@@ -26,6 +26,7 @@ Software Engineer with production experience building and maintaining scalable R
 - I became a Technical Mentor, helping aspiring developers navigate their tech journeys.
 - I was a bootcamp mentor, helping aspiring developers get started in their tech careers.
 - Anime Nerd.
+- Proud Energy drink Junkie
 - I'm a mechanical keyboard enthusiast—nothing beats the sound of a good keystroke!
 
 Feel free to reach out if you're interested in collaboration or just want to chat about tech!
