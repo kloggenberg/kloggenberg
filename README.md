@@ -4,26 +4,28 @@
 ## aka light
 
 ### 👨‍💻 About Me
-I’m an aspiring Software Developer and Technical Mentor at WeThinkCode_. Passionate about building scalable applications and exploring the world of data science and analytics. Currently, I’m working on a Space Invader game and diving deep into Python for data analysis.
+Software Engineer with production experience building and maintaining scalable React and TypeScript applications. Skilled at working in large shared codebases, implementing maintainable component-driven architectures, and delivering reliable, production-ready features. Strong focus on clean code, testing, performance optimisation, and collaborative engineering within Agile teams. Passionate about continuously improving application architecture and developer workflows.
 
 ### 🚀 Skills
-- **Programming Languages:** Java, Python, SQL
-- **Frameworks:** Javalin, Flask, Spring
-- **Tools & Technologies:** Git, Docker, Selenium, JUnit, Pandas, Matplotlib
+- **Programming Languages:** Java, Python, SQL, Typesscript, Node.js, .NET
+- **Frameworks:** Javalin, Flask, Spring, React, React Native, Storybook, Express
+- **Tools & Technologies:** Git, Docker, Selenium, JUnit, Pandas, Matplotlib, Jest
 
 ### 🔧 Projects
-- **[Space Invader Game](https://github.com/kloggenberg/space-invaders)**: A classic arcade game reimagined in Python, featuring engaging gameplay and fun graphics.
-- **[GUI Tic-Tac-Toe](https://github.com/kloggenberg/TikTacToe)**: A user-friendly graphical interface for the classic Tic-Tac-Toe game, implemented in Python.
-- **[Hangman](https://github.com/kloggenberg/Hangman)**: A fun implementation of the classic word-guessing game, where players try to guess a hidden word within a limited number of attempts.
+- **[Enterprise .NET Microservice](https://github.com/your-repo-link)**: A containerized .NET application focused on architectural separation and scalability. 
+    - **Key Feature:** Fully **Dockerized** workflow to ensure environment parity and seamless CI/CD integration.
+    - **Tech Stack:** C#, .NET Core, Docker, RESTful API Design.
+- **[API Gateway Simulator](https://github.com/kloggenberg/api-gateway-sim)**: A high-performance Express/TypeScript gateway featuring a **Chaos Simulator**  middleware to test frontend resilience against real-world latency.
 
 ### 📫 Contact Me
 - [Email](kyleloggenberg9@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/loggenberg/)
 
 ### 🌟 Fun Facts
-- I recently became a Technical Mentor, helping aspiring developers navigate their tech journeys.
+- Final reviewer with Merge right aat MTN Software Solutions
+- I became a Technical Mentor, helping aspiring developers navigate their tech journeys.
 - I was a bootcamp mentor, helping aspiring developers get started in their tech careers.
-- I love working on data visualization projects to make complex data more accessible.
+- Anime Nerd.
 - I'm a mechanical keyboard enthusiast—nothing beats the sound of a good keystroke!
 
 Feel free to reach out if you're interested in collaboration or just want to chat about tech!
